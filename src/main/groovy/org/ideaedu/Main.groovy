@@ -1,4 +1,4 @@
-package org.theideacenter.apps.survey
+package org.ideaedu
 
 import idea.data.rest.*
 import java.util.*
